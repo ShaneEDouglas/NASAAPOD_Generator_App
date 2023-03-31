@@ -36,10 +36,10 @@ The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
 
-## API Choice: NASA 
+## API Choice: NASA API APOD
 
 
-My chosen API for this project is **enter here**.
+My chosen API for this project is **NASA API APOD**.
 
 ## Video Demo
 
