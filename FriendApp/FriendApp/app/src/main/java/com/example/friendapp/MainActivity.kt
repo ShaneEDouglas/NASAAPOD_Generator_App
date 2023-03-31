@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
 
             params["date"] = date
             params["thumbs"] = "false"
-            params["api_key"] = "3QiKkBvp9mExWQULKjlsSYh0nPiworqBTNXvSGeg"
+            params["api_key"] = "Your Api Key goes here. Go to NASA API website"
 
             client ["https://api.nasa.gov/planetary/apod",params,object: JsonHttpResponseHandler(){
                 override fun onFailure(
