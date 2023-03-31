@@ -44,8 +44,7 @@ My chosen API for this project is **NASA API APOD**.
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![](githubdisplay.gif)
 
 GIF created with **[ScreenToGif](https://www.screentogif.com/) for Windows**
 
